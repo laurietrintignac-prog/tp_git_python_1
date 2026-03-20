@@ -1,6 +1,4 @@
-def ecrire(chaine):
-    print(chaine)
 
-
-
-print("Hello World!")
+def addition(a, b):
+ return a + b
+print(addition(3, 5))
